@@ -23,7 +23,7 @@ class MainPanel(bpy.types.Panel):
         layout.prop(props, "nu_grosor", text="Thickness")
         layout.operator("object.rope_generator")
 
-        layout.operator("object.test_hola")
+        #layout.operator("object.test_hola")
         
 
 # Registro de la clase
