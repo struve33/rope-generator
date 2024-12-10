@@ -5,11 +5,14 @@ Este add-on de blender consiste basicamente en generar unas estructuras hechas d
 Estas 'cuertas' van a hacer de tal forma que por un lado tengan una fisica basica de ropa y por otra parte tu podras manualmente manipular su movimiento en la animación.
 
 
-**Tabla de contenido**
+## Tabla de contenido
 
-[TOCM]
-
-[TOC]
+* [Introducción](#Introducción)
+  * [Estructura](#Estructura)
+  * [Utilidad](#Utilidad)
+* [Tutorial](#Tutorial)
+* [Declaración y Aclaración](#Declaración-y-Aclaración)
+* [Futuro previsto](#Futuro-previsto)
 
 ## Introducción
 ### Estructura
@@ -67,11 +70,11 @@ Actualmente este proyecto es un prototipo y no cuenta con muchas pruebas de cali
 
 Si el proyecto avanza se prevee las siguientes adiciones:
 
-1. Agregar una estructura que sirva de guia.
+ 1. Agregar una estructura que sirva de guia.
 
-2. Nodos extras en la malla para aumentar la calidad de la fisica.
+ 2. Nodos extras en la malla para aumentar la calidad de la fisica.
 
-3. una union entre las 'cuerdas' para brindar mayor consistencia a los movimientos.
+ 3. una union entre las 'cuerdas' para brindar mayor consistencia a los movimientos.
 
 
 
