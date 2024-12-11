@@ -11,3 +11,5 @@ permissions = ["files"]
 website = "https://github.com/struve33/rope-generator"
 tags = ["Object"]
 blender_version_min = "4.3.0"
+
+license = ["SPDX:MIT", "SPDX:GPL-3.0-or-later"]
