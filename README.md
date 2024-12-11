@@ -37,20 +37,28 @@ La utilización de este add-on podria ser util para animar cuerdas, cabello, o f
 Debes estar en modo pose.
 
 #### PASO 2
+
 Una vez en el modo pose, selecciona los huesos a los cuales quieres generer la estructura.
 
 Es importante que en caso de ser varias estructuras de hueso esten todos  viculados a un mismo hueso raiz. Ejemplo varios mechones de pelos estaran vinculados a un hueso raiz que sera la cabeza. Si no va a dar error.
 
+!["Select bones"](/images/tuto1.png?raw=true "Select Bones")
+
 #### PASO 3
 En la interfas grafica (ubicada en la pestaña 'Animation') tendras dos inputs.
 
-1. ** nombre:** Este le dara un nombre a la estructura que vas a generar; por defecto genera uno al azar.
+1. **nombre:** Este le dara un nombre a la estructura que vas a generar; por defecto genera uno al azar.
 
 2. **Grosor:** Esto sera el grosor de las mallas que formaran las 'cuerdas', esto afectara el movimiento asi que pendiente.
+
+!["UI"](/images/tuto2.png?raw=true "UI")
 
 #### PASO 4
 Eso seria todo, solo resta presionar el boton de generar y ya todo estara listo.
 
+
+!["Final1"](/images/tuto3.png?raw=true "Final1")
+!["Final2"](/images/tuto4.png?raw=true "Final2")
 ### Pruebas ejecutadas y efectos esperados
 1. No deberia haber cambios si ejecutas la instruccion varias veces sobre los mismos huesos seleccionados; ya que internamente borra todo y genera todo de nuevo.
 
