@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+# Rope Generator
+id = "rope_generator"
+version = "4.3.0"
+name = "Rope Generator"
+tagline = "A rope generator with clothing physics and manual adjustment."
+maintainer = "Alberto Struve"
+type = "add-on"
+permissions = ["files"]
+website = "https://github.com/struve33/rope-generator"
+tags = ["Object"]
+blender_version_min = "4.3.0"
